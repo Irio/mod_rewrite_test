@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^open_me.php$ modrewrite.php
